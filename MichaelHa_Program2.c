@@ -1,7 +1,5 @@
 /*
 Michael Ha
-ICS 365-50
-Professor Carlson
 01/15/2022
 
 -- Quick sort was based on pseudocode from https://www.geeksforgeeks.org/quick-sort/ --
